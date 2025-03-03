@@ -18,12 +18,12 @@ const links = [
         icon: HomeIcon
     },
     {
-        name: 'Invoices',
+        name: 'OutSpending',
         href: '/dashboard/invoices',
         icon: DocumentDuplicateIcon,
     },
     {
-        name: 'Customers',
+        name: 'Calculate Spending',
         href: '/dashboard/customers',
         icon: UserGroupIcon
     },
